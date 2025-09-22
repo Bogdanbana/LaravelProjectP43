@@ -17,6 +17,7 @@
         <h1>Работа в Ларавелем!</h1>
         <a href="{{ route('second') }}">вторая страница</a>
         <a href="{{ route('third') }}">третья страница</a>
+        <a href="{{ route('homee') }}">Мой сайт</a>
         <div class="container">
             @for ($i=1; $i<=12; $i++)
             <div class="card">

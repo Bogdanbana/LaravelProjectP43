@@ -1,0 +1,38 @@
+.container {
+    max-width: 1140px;
+    margin: 50px auto;
+}
+
+.main_menu {
+    width: 1130px;
+    height: 37px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navigation {
+    padding-right: 500px;
+}
+
+.Link {
+    text-decoration: none;
+    padding: 10px;
+    color: #33383F;
+    font-size: 15px;
+}
+
+.Link2 {
+    text-decoration: none;
+    padding: 10px;
+    color: #0070A0;
+    font-size: 15px;
+}
+
+.Button1 {
+    background-color: #0070A0;
+    color: white;
+    height: 36px;
+    width: 139px;
+    border: none;
+}

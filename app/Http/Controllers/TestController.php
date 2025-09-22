@@ -16,4 +16,12 @@ class TestController extends Controller
     {
         return view('third');
     }
+    public function homee()
+    {
+        return view('home');
+    }
+    public function arraycing()
+    {
+        return view('array');
+    }
 }
